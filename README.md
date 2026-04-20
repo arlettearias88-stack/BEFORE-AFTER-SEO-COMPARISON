@@ -1,1 +1,3 @@
 # BEFORE-AFTER-SEO-COMPARISON
+
+In the "before.html" version, the page has a poor structure, lacks semantic elements, and does not include essential meta tags, making it difficult for search engines to properly understand and index the content. In contrast, the "after.html" version includes important SEO improvements such as a descriptive meta description, relevant keywords, proper use of heading tags (h1, h2), and semantic elements like header, main, section, and footer. Additionally, images include alt attributes for better accessibility. These changes make the page more organized, accessible, and optimized for search engines.
